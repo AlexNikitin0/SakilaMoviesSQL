@@ -10,7 +10,7 @@ public class App
 {
     public static String url = "jdbc:mysql://localhost:3306/sakila";
     public static String user = user = "root";
-    public static String password = "17b*98An"; // not my real password
+    public static String password = "123"; // not my real password
 
 
 
